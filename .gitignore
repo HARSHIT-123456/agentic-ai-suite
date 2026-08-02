@@ -1,0 +1,17 @@
+# Environment variables
+.env
+
+agno.db
+# Python cache
+__pycache__/
+*.pyc
+
+# Database
+*.db
+
+# Virtual environments
+venv/
+.venv/
+
+# VS Code
+.vscode/
